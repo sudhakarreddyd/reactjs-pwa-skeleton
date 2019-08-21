@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Setup
+Required Node v10.x
+Clone the skeleton, and do ### `npm i`  
+
 ## Available Scripts
 
 In the project directory, you can run:
