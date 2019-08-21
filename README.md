@@ -36,7 +36,12 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Firebase hosting
-See the steps [deployment](https://firebase.google.com/docs/hosting/quickstart) for firebase hosting.
+See the steps [deployment](https://firebase.google.com/docs/hosting/quickstart) on firebase hosting.
+
+## Test Progressive Web App
+
+Once deployment is success, open pwa-app link(You will get after deployment) in mobile
+After successfull load of page you will get to see an option `Add <App title> to Home scree` click on it and you can see starts showing from home screen and looks as same as like mobile app(all browser controlls will not be shown)
 
 ## Learn More
 
