@@ -40,7 +40,7 @@ See the steps [deployment](https://firebase.google.com/docs/hosting/quickstart) 
 
 ## Test Progressive Web App
 
-Once deployment is success, open pwa-app link(You will get after deployment) in mobile
+Once deployment is success, open pwa-app link(You will get after deployment) in mobile.
 After successfull load of page you will get to see an option `Add <App title> to Home scree` click on it and you can see starts showing from home screen and looks as same as like mobile app(all browser controlls will not be shown)
 
 ## Learn More
